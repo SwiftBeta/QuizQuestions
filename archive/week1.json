@@ -6,7 +6,7 @@
       "answers": [
         {"id": "type_a", "value": "Canal de SwiftBeta en Youtube"}
       ],
-      "check": "type_b",
+      "check": "type_a",
     },
     {
       "id": 1,
