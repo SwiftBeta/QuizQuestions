@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "WEEK 1",
+      "answers": [
+        {"id": "type_a", "value": "weewwqeqew"},
+        {"id": "type_b", "value": "saddsaadss"}
+      ],
+      "check": "type_a",
+    },
+    {
+      "id": 1,
+      "name": "WEEK 1 Pregunta 2",
+      "answers": [
+        {"id": "type_a", "value": "weewwqeqew"},
+        {"id": "type_b", "value": "saddsaadss"},
+        {"id": "type_c", "value": "2321321312123"}
+      ],
+      "check": "type_a",
+    },
+    {
+      "id": 2,
+      "name": "Week 1 Pregunta 3",
+      "answers": [
+        {"id": "type_a", "value": "weewwqeqew"},
+        {"id": "type_b", "value": "ewewqeqw"},
+        {"id": "type_c", "value": "ewewqewq"},
+        {"id": "type_d", "value": "ewewqewq"}
+      ],
+      "check": "type_a",
+    }
+  ]
+}
