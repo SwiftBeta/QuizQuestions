@@ -2,33 +2,21 @@
   "data": [
     {
       "id": 0,
-      "name": "WEEK 1",
+      "name": "Aprende Swift y SwiftUI",
       "answers": [
-        {"id": "type_a", "value": "weewwqeqew"},
-        {"id": "type_b", "value": "saddsaadss"}
+        {"id": "type_a", "value": "www.swiftbeta.com"},
+        {"id": "type_b", "value": "Canal de SwiftBeta en Youtube"}
       ],
-      "check": "type_a",
+      "check": "type_b",
     },
     {
       "id": 1,
-      "name": "WEEK 1 Pregunta 2",
+      "name": "Comunidad iOS para aprender a crear aplicaciones",
       "answers": [
-        {"id": "type_a", "value": "weewwqeqew"},
-        {"id": "type_b", "value": "saddsaadss"},
-        {"id": "type_c", "value": "2321321312123"}
+        {"id": "type_a", "value": "www.swiftbeta.com/discord"},
+        {"id": "type_b", "value": "Comunidad de SwiftBeta de Discord"},
       ],
-      "check": "type_a",
-    },
-    {
-      "id": 2,
-      "name": "Week 1 Pregunta 3",
-      "answers": [
-        {"id": "type_a", "value": "weewwqeqew"},
-        {"id": "type_b", "value": "ewewqeqw"},
-        {"id": "type_c", "value": "ewewqewq"},
-        {"id": "type_d", "value": "ewewqewq"}
-      ],
-      "check": "type_a",
+      "check": "type_b",
     }
   ]
 }
