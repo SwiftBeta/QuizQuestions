@@ -21,7 +21,7 @@
         {"id": "type_b", "value": "[('SwiftBeta', 'Swift'), ('apple', 'orange')]"},
         {"id": "type_c", "value": "[('SwiftBeta', 'apple'), ('Swift', 'orange')]"}
       ],
-      "gistURL": "https://gist.github.com/SwiftBeta/ef1ff4a4895dd30b010761eb16de554a.js",
+      "gistURL": "https://gist.github.com/SwiftBeta/b07b1f15ede50720927d2d23e5274d1a.js",
       "check": "type_c",
       "created_by": "SwiftBeta_"
     },
