@@ -7,7 +7,7 @@
         {"id": "type_a", "value": "El código no compila"},
         {"id": "type_b", "value": "Falta llamar .resume() para que se realice la petición HTTP"},
         {"id": "type_c", "value": "No existe la API de iTunes"},
-        {"id": "type_c", "value": "La constante urlSession debe ser una variable"}
+        {"id": "type_d", "value": "La constante urlSession debe ser una variable"}
       ],
       "gistURL": "https://gist.github.com/SwiftBeta/b943932859caa1c1411a2c0cf449646b.js",
       "check": "type_b",
