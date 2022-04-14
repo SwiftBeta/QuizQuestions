@@ -4,8 +4,7 @@
       "id": 0,
       "name": "Aprende Swift y SwiftUI",
       "answers": [
-        {"id": "type_a", "value": "www.swiftbeta.com"},
-        {"id": "type_b", "value": "Canal de SwiftBeta en Youtube"}
+        {"id": "type_a", "value": "Canal de SwiftBeta en Youtube"}
       ],
       "check": "type_b",
     },
@@ -13,10 +12,17 @@
       "id": 1,
       "name": "Comunidad iOS para aprender a crear aplicaciones",
       "answers": [
-        {"id": "type_a", "value": "www.swiftbeta.com/discord"},
-        {"id": "type_b", "value": "Comunidad de SwiftBeta de Discord"},
+        {"id": "type_a", "value": "Comunidad de SwiftBeta de Discord (www.swiftbeta.com/discord)"},
       ],
-      "check": "type_b",
+      "check": "type_a",
+    },
+    {
+      "id": 2,
+      "name": "Twitter con publicaciones sobre Swift",
+      "answers": [
+        {"id": "type_a", "value": "@SwiftBeta_"},
+      ],
+      "check": "type_a",
     }
   ]
 }
