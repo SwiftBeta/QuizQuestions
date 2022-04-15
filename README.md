@@ -131,4 +131,4 @@ Lo que debes añadir al JSON es la URL `https://gist.github.com/SwiftBeta/b94393
 
 ## FEEDBACK
 - Si ves algún bug, puedes comunicarlo en nuestra comunidad de Discord https://www.swiftbeta.com/discord
-- Menciónama en un Tweet
+- Mencióname en un Tweet
