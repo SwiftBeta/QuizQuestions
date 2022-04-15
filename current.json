@@ -10,7 +10,7 @@
         {"id": "type_d", "value": "La constante urlSession debe ser una variable"}
       ],
       "gistURL": "https://gist.github.com/SwiftBeta/b943932859caa1c1411a2c0cf449646b.js",
-      "check": "type_b",
+      "correct": "type_b",
       "created_by": "SwiftBeta_"
     },
     {
@@ -22,7 +22,7 @@
         {"id": "type_c", "value": "[('SwiftBeta', 'apple'), ('Swift', 'orange')]"}
       ],
       "gistURL": "https://gist.github.com/SwiftBeta/b07b1f15ede50720927d2d23e5274d1a.js",
-      "check": "type_c",
+      "correct": "type_c",
       "created_by": "SwiftBeta_"
     },
     {
@@ -34,7 +34,7 @@
         {"id": "type_c", "value": "29 de junio de 2007"},
         {"id": "type_d", "value": "10 de marzo de 2006"},
       ],
-      "check": "type_c",
+      "correct": "type_c",
       "created_by": "SwiftBeta_"
     },
     {
@@ -44,7 +44,7 @@
         {"id": "type_a", "value": "Correcto"},
         {"id": "type_b", "value": "Incorrecto, SwiftUI usa sintaxis imperativa"},
       ],
-      "check": "type_a",
+      "correct": "type_a",
       "created_by": "SwiftBeta_"
     }
   ]

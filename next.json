@@ -10,7 +10,7 @@
         {"id": "type_d", "value": "TEMPLATE ANSWER 4"}
       ],
       "gistURL": "https://gist.github.com/SwiftBeta/ef1ff4a4895dd30b010761eb16de554a.js",
-      "check": "type_a",
+      "correct": "type_a",
       "created_by": "TEMPLATE CREATOR"
     },
     {
@@ -21,7 +21,7 @@
         {"id": "type_b", "value": "TEMPLATE ANSWER 2"},
         {"id": "type_c", "value": "TEMPLATE ANSWER 3"}
       ],
-      "check": "type_a",
+      "correct": "type_a",
       "created_by": "TEMPALTE CREATOR"
     }
   ]

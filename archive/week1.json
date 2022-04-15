@@ -6,7 +6,7 @@
       "answers": [
         {"id": "type_a", "value": "Canal de SwiftBeta en Youtube"}
       ],
-      "check": "type_a",
+      "correct": "type_a",
     },
     {
       "id": 1,
@@ -14,7 +14,7 @@
       "answers": [
         {"id": "type_a", "value": "Comunidad de SwiftBeta de Discord (www.swiftbeta.com/discord)"},
       ],
-      "check": "type_a",
+      "correct": "type_a",
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "answers": [
         {"id": "type_a", "value": "@SwiftBeta_"},
       ],
-      "check": "type_a",
+      "correct": "type_a",
     }
   ]
 }
