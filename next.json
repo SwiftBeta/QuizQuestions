@@ -2,27 +2,14 @@
   "data": [
     {
       "id": 0,
-      "name": "TEMPLATE QUESTION ONE",
+      "name": "Cuando usamos Combine, ¿podemos transformar un Array en un Publisher y suscribirnos a él como muestra la siguiente imagen?",
       "answers": [
-        {"id": "type_a", "value": "TEMPLATE ANSWER 1"},
-        {"id": "type_b", "value": "TEMPLATE ANSWER 2"},
-        {"id": "type_c", "value": "TEMPLATE ANSWER 3"},
-        {"id": "type_d", "value": "TEMPLATE ANSWER 4"}
+        {"id": "type_a", "value": "Sí, es correcto. Al suscribirnos obtenemos todos los valores del Array"},
+        {"id": "type_b", "value": "No, es más complejo que ese código"},
       ],
-      "gistURL": "https://gist.github.com/SwiftBeta/ef1ff4a4895dd30b010761eb16de554a.js",
+      "gistURL": "https://gist.github.com/SwiftBeta/671d542e87dfb625aa76063a37643e3e.js",
       "correct": "type_a",
-      "created_by": "TEMPLATE CREATOR"
-    },
-    {
-      "id": 1,
-      "name": "TEMPLATE QUESTION TWO",
-      "answers": [
-        {"id": "type_a", "value": "TEMPLATE ANSWER 1"},
-        {"id": "type_b", "value": "TEMPLATE ANSWER 2"},
-        {"id": "type_c", "value": "TEMPLATE ANSWER 3"}
-      ],
-      "correct": "type_a",
-      "created_by": "TEMPALTE CREATOR"
+      "created_by": "SwiftBeta_"
     }
   ]
 }
