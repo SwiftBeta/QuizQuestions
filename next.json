@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 0,
-      "name": "Cuando usamos Combine, ¿podemos transformar un Array en un Publisher y suscribirnos a él como muestra la siguiente imagen?",
+      "name": "Cuando usamos Combine, ¿podemos transformar un Array en un Publisher y suscribirnos a él como muestra el siguiente snippet de código?",
       "answers": [
         {"id": "type_a", "value": "Sí, es correcto. Al suscribirnos obtenemos todos los valores del Array"},
         {"id": "type_b", "value": "No, es más complejo que ese código"},
@@ -40,7 +40,7 @@
     },
     {
       "id": 3,
-      "name": "El print del siguiente snippet de código que muestra por consola",
+      "name": "¿Qué se muestra por consola al hacer el print?",
       "answers": [
         {"id": "type_a", "value": "El código no compila"},
         {"id": "type_b", "value": "Se muestra por consola 2"},
