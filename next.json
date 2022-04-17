@@ -108,5 +108,18 @@
       "correct": "type_a",
       "created_by": "SwiftBeta_"
     },
+    {
+      "id": 9,
+      "name": "Atajo (Shortcut) de Xcode para lanzar todos los tests",
+      "answers": [
+        {"id": "type_a", "value": "COMMAND+0"},
+        {"id": "type_b", "value": "COMMAND+."},
+        {"id": "type_c", "value": "SHIFT+COMMAND+J"},
+        {"id": "type_d", "value": "COMMAND+U"},
+      ],
+      "gistURL": "",
+      "correct": "type_d",
+      "created_by": "SwiftBeta_"
+    },
   ]
 }
