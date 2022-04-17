@@ -10,6 +10,116 @@
       "gistURL": "https://gist.github.com/SwiftBeta/671d542e87dfb625aa76063a37643e3e.js",
       "correct": "type_a",
       "created_by": "SwiftBeta_"
-    }
+    },
+    {
+      "id": 1,
+      "name": "El siguiente código muestra una copia de una instancia de User. Fíjate que el tipo User es una CLASS, ¿qué crees que se printa por consola?",
+      "answers": [
+        {"id": "type_a", "value": "En los dos casos se printa Steve"},
+        {"id": "type_b", "value": "En los dos casos se printa Tim"},
+        {"id": "type_c", "value": "Se printa Steve y luego Tim"},
+        {"id": "type_d", "value": "Se printa Tim y luego Steve"},
+
+      ],
+      "gistURL": "https://gist.github.com/SwiftBeta/72af0a714d2806d44cae318f25e7cf77.js",
+      "correct": "type_b",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 2,
+      "name": "El siguiente código muestra una copia de una instancia de User. Fíjate que el tipo User es una STRUCT, ¿qué crees que se printa por consola?",
+      "answers": [
+        {"id": "type_a", "value": "En los dos casos se printa Steve"},
+        {"id": "type_b", "value": "En los dos casos se printa Tim"},
+        {"id": "type_c", "value": "Se printa Steve y luego Tim"},
+        {"id": "type_d", "value": "Se printa Tim y luego Steve"},
+      ],
+      "gistURL": "https://gist.github.com/SwiftBeta/c1d3180669d4e09669d68623ca67d9e1.js",
+      "correct": "type_c",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 3,
+      "name": "El print del siguiente snippet de código que muestra por consola",
+      "answers": [
+        {"id": "type_a", "value": "El código no compila"},
+        {"id": "type_b", "value": "Se muestra por consola 2"},
+        {"id": "type_c", "value": "Se muestra por consola 4"},
+        {"id": "type_d", "value": "Se muestra por consola 8"},
+      ],
+      "gistURL": "https://gist.github.com/SwiftBeta/3e6c12ba270c8521d0e8c1777c3befd9.js",
+      "correct": "type_d",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 4,
+      "name": "¿Cuál es el tipo de la constante type?",
+      "answers": [
+        {"id": "type_a", "value": "(Int) -> (Int) -> Int"},
+        {"id": "type_b", "value": "(Int) -> Int"},
+        {"id": "type_c", "value": "El código no compila"},
+      ],
+      "gistURL": "https://gist.github.com/SwiftBeta/5df1b471f48d3575d2c6bf02c0d15560.js",
+      "correct": "type_a",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 5,
+      "name": "¿Cuál es el tipo de la constante type? (¡No es la misma pregunta que antes, el código ha cambiado!)",
+      "answers": [
+        {"id": "type_a", "value": "(Int) -> (Int) -> Int"},
+        {"id": "type_b", "value": "(Int) -> Int"},
+        {"id": "type_c", "value": "El código no compila"},
+      ],
+      "gistURL": "https://gist.github.com/SwiftBeta/a4b3c66772de8d48ea786993b997339c.js",
+      "correct": "type_b",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 6,
+      "name": "¿Cúando será la próxima WWDC (Conferencia de Apple para desarrolladores)?",
+      "answers": [
+        {"id": "type_a", "value": "Martes 7 de junio de 2022"},
+        {"id": "type_b", "value": "Lunes 20 de junio de 2022"},
+        {"id": "type_c", "value": "Lunes 6 de junio de 2022"},
+      ],
+      "correct": "type_c",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 7,
+      "name": "El siguiente snippet de código ¿es correcto? (👀 TIP: Es una CLASS)",
+      "answers": [
+        {"id": "type_a", "value": "Sí, se crea una instancia de DataModel"},
+        {"id": "type_b", "value": "No, hay que crear el init de la clase DataModel"},
+      ],
+      "gistURL": "https://gist.github.com/SwiftBeta/f0bcf10ecc57a60a11039d06c13d4601.js",
+      "correct": "type_b",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 8,
+      "name": "El siguiente snippet de código ¿es correcto? (👀 TIP: Es una STRUCT)",
+      "answers": [
+        {"id": "type_a", "value": "Sí, se crea una instancia de DataModel"},
+        {"id": "type_b", "value": "No, hay que crear el init de la clase DataModel"},
+      ],
+      "gistURL": "https://gist.github.com/SwiftBeta/f01282e06cf5ae880ca6d774f9dcad30.js",
+      "correct": "type_a",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 9,
+      "name": "Atajo (Shortcut) de Xcode para lanzar todos los tests",
+      "answers": [
+        {"id": "type_a", "value": "COMMAND+0"},
+        {"id": "type_b", "value": "COMMAND+."},
+        {"id": "type_c", "value": "SHIFT+COMMAND+J"},
+        {"id": "type_d", "value": "COMMAND+U"},
+      ],
+      "gistURL": "",
+      "correct": "type_d",
+      "created_by": "SwiftBeta_"
+    },
   ]
 }
