@@ -2,27 +2,50 @@
   "data": [
     {
       "id": 0,
-      "name": "Aprende Swift y SwiftUI",
+      "name": "El siguiente código muestra cómo realizar una petición HTTP en Swift (en un Playground). Pero hay un problema muy común",
       "answers": [
-        {"id": "type_a", "value": "Canal de SwiftBeta en Youtube"}
+        {"id": "type_a", "value": "El código no compila"},
+        {"id": "type_b", "value": "Falta llamar .resume() para que se realice la petición HTTP"},
+        {"id": "type_c", "value": "No existe la API de iTunes"},
+        {"id": "type_d", "value": "La constante urlSession debe ser una variable"}
       ],
-      "correct": "type_a",
+      "gistURL": "https://gist.github.com/SwiftBeta/b943932859caa1c1411a2c0cf449646b.js",
+      "correct": "type_b",
+      "created_by": "SwiftBeta_"
     },
     {
       "id": 1,
-      "name": "Comunidad iOS para aprender a crear aplicaciones",
+      "name": "Con el siguiente código, ¿qué resultado se printa por consola?",
       "answers": [
-        {"id": "type_a", "value": "Comunidad de SwiftBeta de Discord (www.swiftbeta.com/discord)"},
+        {"id": "type_a", "value": "Error al compilar"},
+        {"id": "type_b", "value": "[('SwiftBeta', 'Swift'), ('apple', 'orange')]"},
+        {"id": "type_c", "value": "[('SwiftBeta', 'apple'), ('Swift', 'orange')]"}
       ],
-      "correct": "type_a",
+      "gistURL": "https://gist.github.com/SwiftBeta/b07b1f15ede50720927d2d23e5274d1a.js",
+      "correct": "type_c",
+      "created_by": "SwiftBeta_"
     },
     {
       "id": 2,
-      "name": "Twitter con publicaciones sobre Swift",
+      "name": "¿Cuándo se lanzó el primer iPhone?",
       "answers": [
-        {"id": "type_a", "value": "@SwiftBeta_"},
+        {"id": "type_a", "value": "29 de junio de 2009"},
+        {"id": "type_b", "value": "11 de junio de 2008"},
+        {"id": "type_c", "value": "29 de junio de 2007"},
+        {"id": "type_d", "value": "10 de marzo de 2006"},
+      ],
+      "correct": "type_c",
+      "created_by": "SwiftBeta_"
+    },
+    {
+      "id": 3,
+      "name": "SwiftUI utiliza sintaxis declarativa",
+      "answers": [
+        {"id": "type_a", "value": "Correcto"},
+        {"id": "type_b", "value": "Incorrecto, SwiftUI usa sintaxis imperativa"},
       ],
       "correct": "type_a",
+      "created_by": "SwiftBeta_"
     }
   ]
 }

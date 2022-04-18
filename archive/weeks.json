@@ -1,5 +1,4 @@
 {
   "weeks": [
       "week1.json",
-	]
-}
+\t\t\t"week$NEW_WEEK_NUMBER.json",\n\t]\n}
