@@ -21,6 +21,7 @@
         {"id": "type_b", "value": "TEMPLATE ANSWER 2"},
         {"id": "type_c", "value": "TEMPLATE ANSWER 3"}
       ],
+      "gistURL": "",
       "correct": "type_a",
       "created_by": "TEMPLATE CREATOR"
     }
