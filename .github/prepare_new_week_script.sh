@@ -5,7 +5,7 @@ echo "Executing script..."
 # Extract new filename
 LAST_FILENAME=$(ls archive | sort -Vf | tail -n 1)
 LAST_WEEK_NUMBER=$(echo ${LAST_FILENAME} | grep -o -E "[0-9]+")
-NEW_WEEK_NUMBER=$(echo $(($LAST_WEEK_NUMBER + 1)))
+NEW_WEEK_NUMBER=$(echo $(($LAST_WEEK_NUMBER + 2)))
 echo $NEW_WEEK_NUMBER
 
 # Archive current week
@@ -27,8 +27,8 @@ echo '\t\t\t"week$NEW_WEEK_NUMBER.json",\n\t]\n}' >> archive/weeks.json
 git config --global user.email "swiftbeta.blog@gmail.com"
 git config --global user.name "SwiftBeta"
 
-# git add .
-# git commit -m "🤖 Week "$NEW_WEEK_NUMBER", Update questions"
-# git push
+git add .
+git commit -m "🤖 Week "$NEW_WEEK_NUMBER", Update questions"
+git push
 
 echo "Finished script..."
