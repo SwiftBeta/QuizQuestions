@@ -14,7 +14,6 @@ He creado una web con VAPOR llamada [swiftbeta.herokuapp.com](https://swiftbeta.
 - La web está deployada en Heroku. 
 - El framework que he usado es VAPOR (creada en Swift, HTML y Bootstrap)
 - La web se nutre de los datos de este repositorio. Accede al `current.json` y `archive/weeks.json`.
-- El número de respuestas a tu pregunta es dinámico (puedes añadir un máximo de 4 respuestas)
 - Uso AWS lambda con un cron que se ejecuta cada domingo:
 
 ## FEEDBACK
