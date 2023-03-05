@@ -8,7 +8,7 @@ He creado una web con VAPOR llamada [swiftbeta.herokuapp.com](https://swiftbeta.
 1. Cada semana aparecerán nuevas preguntas (el proceso está automatizado)
 2. Las preguntas son generadas por ChatGPT
 
-<img width="1430" alt="Screenshot 2022-04-15 at 12 16 46" src="https://user-images.githubusercontent.com/74316958/163559453-f0079ea3-142f-452c-8fa4-8399753d6e88.png">
+<img width="1512" alt="Ejemplo del Quiz de SwiftBeta con preguntas de Swift, SwiftUI, Xcode, UIKit, etc" src="https://user-images.githubusercontent.com/74316958/222982294-14737006-ca3f-46f7-af86-5c612edf5ed0.png">
 
 ## ¿CÓMO FUNCIONA?
 - La web está deployada en Heroku. 
